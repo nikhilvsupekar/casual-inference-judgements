@@ -1,0 +1,13 @@
+------------
+  Datasets  
+------------
+
+Opinions XML (sample)
+https://www.dropbox.com/sh/lhm2kgrxp9tf4c1/AACMqjxHnx8LGnl3f_rr-Vroa?dl=0
+
+AOC data
+https://www.dropbox.com/s/n08f1ayw0j8fwda/districtAOC_dupldropped.dta?dl=0
+
+Judge data
+https://www.dropbox.com/s/ammsnvf1z3izbjx/JudgesBioReshaped_TOUSE.dta?dl=0
+

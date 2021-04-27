@@ -1,0 +1,667 @@
+{
+    "file_meta": {
+        "file_title": "US Cases/1st Circuit - US District Court Cases [PCSI-6411]",
+        "file_subtitle": "39862-39863",
+        "file_name": "6411.zip",
+        "file_updated": "2016-07-22T23:53:39.60",
+        "file_publish_type": "incremental",
+        "file_incremental_type": "unenriched",
+        "file_delivery_bundle_id": "MNCRExport-130110-00949711-FF",
+        "file_delivery_group_id": "60082458"
+    },
+    "case_meta": {
+        "file_entry_bundle_id": "60082458",
+        "docket_num": "Civil Action No. 12-cv-11935 Civil Action No. 12-cv-12326- Civil Action No. 12-cv-12330- ",
+        "docket_num_normalized": null,
+        "full_case_name": "TRUSTEES OF BOSTON UNIVERSITY, Plaintiff, Consolidated v. EVERLIGHT ELECTRONICS CO., LTD., et al., Defendants. TRUSTEES OF BOSTON UNIVERSITY, Plaintiff, v. PBS EPISTAR CORPORATION, et al., Defendants. TRUSTEES OF BOSTON UNIVERSITY, Plaintiff, v. PBS LITE-ON INC., et al., Defendants. ",
+        "short_case_name": "Trs. of Boston Univ. v. Everlight Elecs. Co.",
+        "party_1": "Trs. of Boston Univ.",
+        "party_2": "Everlight Elecs. Co.",
+        "court_name": "United States District Court for the District of Massachusetts",
+        "court_code": null,
+        "this_case_cite": "2016 U.S. Dist. LEXIS 96046",
+        "this_cite_definition": null,
+        "this_cite_page_scheme": "U.S. Dist. LEXIS",
+        "case_opinion_by": null,
+        "judges": null,
+        "decision_date_str": "July 22, 2016, Decided",
+        "decision_date": "2016-07-22",
+        "filing_date_str": null,
+        "filing_date": null,
+        "dc_creator": "United States District Court for the District of Massachusetts",
+        "dc_identifier": "urn:contentItem:5K96-7Y31-F04D-D0P0-00000-00",
+        "dc_identifier_scheme": "PGUID",
+        "dc_source": "6411",
+        "dc_date": "2016-07-22",
+        "pagination_scheme": null
+    },
+    "file_entry": {
+        "file_entry_title": "urn:contentItem:5K96-7Y31-F04D-D0P0-00000-00",
+        "file_entry_id": "urn:contentItem:5K96-7Y31-F04D-D0P0-00000-00",
+        "file_entry_updated": "2016-07-22T23:43:39",
+        "file_entry_bundle_id": "60082458",
+        "file_entry_icceid": "PS40O1GT2BWXM_5K96-7Y31-F04D-D0P0-00000-00",
+        "file_entry_pcsi": "6411",
+        "file_entry_src": "cid:urn:contentItem:5K96-7Y31-F04D-D0P0-00000-00@lexisnexis.com"
+    },
+    "cited_docs": [
+        {
+            "cite_id": "I2K93JG7YFK000YMBT600001",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "patent",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JG8BY1000YMBT600002",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "patent",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JG8J1W000YMBT600003",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "statute",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JG8R4R000YMBT600004",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "Octane Fitness LLC v. ICON Health & Fitness, Inc."
+        },
+        {
+            "cite_id": "I2K93JG8VYW000YMBT600005",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "statute",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JG922R000YMBT600006",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "Id."
+        },
+        {
+            "cite_id": "I2K93JG95WW000YMBT600007",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "Highmark"
+        },
+        {
+            "cite_id": "I2K93JG9C0R000YMBT600008",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "statute",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JG9GTW000YMBT600009",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "Octane Fitness"
+        },
+        {
+            "cite_id": "I2K93JG9NXR000YMBT60000B",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "Id."
+        },
+        {
+            "cite_id": "I2K93JG9TRW000YMBT60000C",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "Fogerty v. Fantasy, Inc."
+        },
+        {
+            "cite_id": "I2K93JGB0VR000YMBT60000D",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "Id."
+        },
+        {
+            "cite_id": "I2K93JGB4NW000YMBT60000F",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "statute",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JGB8H1000YMBT60000G",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "Rambus Inc. v. Infineon Techs. AG"
+        },
+        {
+            "cite_id": "I2K93JGBFKW000YMBT60000H",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JGBKF1000YMBT60000J",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "statute",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JGBR85000YMBT60000K",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "Power Mosfet Techs., LLC v."
+        },
+        {
+            "cite_id": "I2K93JGBXC1000YMBT60000M",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "Takeda Chem."
+        },
+        {
+            "cite_id": "I2K93JGC265000YMBT60000N",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "Golight, Inc. v. Wal-Mart Stores, Inc."
+        },
+        {
+            "cite_id": "I2K93JGC619000YMBT60000P",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "Veracode, Inc. v. Appthority, Inc."
+        },
+        {
+            "cite_id": "I2K93JGCKGR000YMBT60000R",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "Spectralytics, Inc. v. Cordis Corp."
+        },
+        {
+            "cite_id": "I2K93JGCR9W000YMBT60000S",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "statute",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JGCW51000YMBT60000T",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "patent",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JGD27W000YMBT60000V",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "courtRule",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JGD631000YMBT60000W",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "patent",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JGD9X5000YMBT60000X",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "statute",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JGDH11000YMBT60000Y",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "SFA Sys., LLC v. Newegg, Inc."
+        },
+        {
+            "cite_id": "I2K93JGH3PR000YMBT600010",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "Octane Fitness"
+        },
+        {
+            "cite_id": "I2K93JGH8TK000YMBT600011",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JGHDMR000YMBT600012",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "Trs. of Boston Univ. v. Everlight Elecs. Co."
+        },
+        {
+            "cite_id": "I2K93JGHJFW000YMBT600013",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "patent",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JGHP91000YMBT600014",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "patent",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JGHWCW000YMBT600015",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JGJ171000YMBT600016",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "Id."
+        },
+        {
+            "cite_id": "I2K93JGJ69W000YMBT600017",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "statute",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JGJB51000YMBT600018",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "Amsted Indus. Inc. v. Buckeye Steel Castings Co."
+        },
+        {
+            "cite_id": "I2K93JGJG05000YMBT600019",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "Takeda Chem. Indus."
+        },
+        {
+            "cite_id": "I2K93JGJKT9000YMBT60001B",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JGJRMF000YMBT60001C",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "Amsted"
+        },
+        {
+            "cite_id": "I2K93JGJXR9000YMBT60001D",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JGK2JF000YMBT60001F",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "iLOR, LLC v. Google, Inc."
+        },
+        {
+            "cite_id": "I2K93JGK6CK000YMBT60001G",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "case",
+            "cite_name": "MarcTec"
+        },
+        {
+            "cite_id": "I2K93JGKCGF000YMBT60001H",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "statute",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JGKH9K000YMBT60001J",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "statute",
+            "cite_name": null
+        },
+        {
+            "cite_id": "I2K93JGKN4R000YMBT60001K",
+            "data/fffa6651-78a9-4021-aed4-dacfad713725cite_type": "courtRule",
+            "cite_name": null
+        }
+    ],
+    "doc_details": [
+        [
+            "I2K93JG7YFK000YMBT600001",
+            {
+                "cite_type": "patent",
+                "normalized_cite": "Pat. No. 5686738",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#42#39#0005686738#"
+            }
+        ],
+        [
+            "I2K93JG8BY1000YMBT600002",
+            {
+                "cite_type": "patent",
+                "normalized_cite": "Pat. No. 5686738",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#42#39#0005686738#"
+            }
+        ],
+        [
+            "I2K93JG8J1W000YMBT600003",
+            {
+                "cite_type": "statute",
+                "normalized_cite": "35 U.S.C. sec. 285",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#1828#123#000035#        285#"
+            }
+        ],
+        [
+            "I2K93JG8R4R000YMBT600004",
+            {
+                "cite_type": "case",
+                "normalized_cite": "134 S. Ct. 1749",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#656#3#000134#001749#"
+            }
+        ],
+        [
+            "I2K93JG8VYW000YMBT600005",
+            {
+                "cite_type": "statute",
+                "normalized_cite": "35 U.S.C. sec. 285",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#1828#123#000035#        285#"
+            }
+        ],
+        [
+            "I2K93JG922R000YMBT600006",
+            {
+                "cite_type": "case",
+                "normalized_cite": "134 S. Ct. 1749",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#656#3#000134#001749#"
+            }
+        ],
+        [
+            "I2K93JG95WW000YMBT600007",
+            {
+                "cite_type": "case",
+                "normalized_cite": "134 S. Ct. 1744",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#656#3#000134#001744#"
+            }
+        ],
+        [
+            "I2K93JG9C0R000YMBT600008",
+            {
+                "cite_type": "statute",
+                "normalized_cite": "35 U.S.C. sec. 285",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#1828#123#000035#        285#"
+            }
+        ],
+        [
+            "I2K93JG9GTW000YMBT600009",
+            {
+                "cite_type": "case",
+                "normalized_cite": "134 S. Ct. 1744",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#656#3#000134#001744#"
+            }
+        ],
+        [
+            "I2K93JG9NXR000YMBT60000B",
+            {
+                "cite_type": "case",
+                "normalized_cite": "134 S. Ct. 1744",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#656#3#000134#001744#"
+            }
+        ],
+        [
+            "I2K93JG9TRW000YMBT60000C",
+            {
+                "cite_type": "case",
+                "normalized_cite": "510 U.S. 517",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#52#3#000510#000517#"
+            }
+        ],
+        [
+            "I2K93JGB0VR000YMBT60000D",
+            {
+                "cite_type": "case",
+                "normalized_cite": "134 S. Ct. 1744",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#656#3#000134#001744#"
+            }
+        ],
+        [
+            "I2K93JGB4NW000YMBT60000F",
+            {
+                "cite_type": "statute",
+                "normalized_cite": "35 U.S.C. sec. 285",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#1828#123#000035#        285#"
+            }
+        ],
+        [
+            "I2K93JGB8H1000YMBT60000G",
+            {
+                "cite_type": "case",
+                "normalized_cite": "318 F.3d 1081",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#514#3#000318#001081#"
+            }
+        ],
+        [
+            "I2K93JGBFKW000YMBT60000H",
+            {
+                "cite_type": "case",
+                "normalized_cite": "318 F.3d 1081",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#514#3#000318#001081#"
+            }
+        ],
+        [
+            "I2K93JGBKF1000YMBT60000J",
+            {
+                "cite_type": "statute",
+                "normalized_cite": "35 U.S.C. sec. 285",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#1828#123#000035#        285#"
+            }
+        ],
+        [
+            "I2K93JGBR85000YMBT60000K",
+            {
+                "cite_type": "case",
+                "normalized_cite": "378 F.3d 1396",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#514#3#000378#001396#"
+            }
+        ],
+        [
+            "I2K93JGBXC1000YMBT60000M",
+            {
+                "cite_type": "case",
+                "normalized_cite": "549 F.3d 1381",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#514#3#000549#001381#"
+            }
+        ],
+        [
+            "I2K93JGC265000YMBT60000N",
+            {
+                "cite_type": "case",
+                "normalized_cite": "355 F.3d 1327",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#514#3#000355#001327#"
+            }
+        ],
+        [
+            "I2K93JGC619000YMBT60000P",
+            {
+                "cite_type": "case",
+                "normalized_cite": "137 F. Supp. 3d 17",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#51717#3#000137#000017#"
+            }
+        ],
+        [
+            "I2K93JGCKGR000YMBT60000R",
+            {
+                "cite_type": "case",
+                "normalized_cite": "649 F.3d 1336",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#514#3#000649#001336#"
+            }
+        ],
+        [
+            "I2K93JGCR9W000YMBT60000S",
+            {
+                "cite_type": "statute",
+                "normalized_cite": "35 U.S.C. sec. 285",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#1828#123#000035#        285#"
+            }
+        ],
+        [
+            "I2K93JGCW51000YMBT60000T",
+            {
+                "cite_type": "patent",
+                "normalized_cite": "Pat. No. 5686738",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#42#39#0005686738#"
+            }
+        ],
+        [
+            "I2K93JGD27W000YMBT60000V",
+            {
+                "cite_type": "courtRule",
+                "normalized_cite": "Fed. R. Civ. P. 68",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#7540#110#    68#"
+            }
+        ],
+        [
+            "I2K93JGD631000YMBT60000W",
+            {
+                "cite_type": "patent",
+                "normalized_cite": "Pat. No. 5686738",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#42#39#0005686738#"
+            }
+        ],
+        [
+            "I2K93JGD9X5000YMBT60000X",
+            {
+                "cite_type": "statute",
+                "normalized_cite": "35 U.S.C. sec. 285",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#1828#123#000035#        285#"
+            }
+        ],
+        [
+            "I2K93JGDH11000YMBT60000Y",
+            {
+                "cite_type": "case",
+                "normalized_cite": "793 F.3d 1344",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#514#3#000793#001344#"
+            }
+        ],
+        [
+            "I2K93JGH3PR000YMBT600010",
+            {
+                "cite_type": "case",
+                "normalized_cite": "134 S. Ct. 1744",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#656#3#000134#001744#"
+            }
+        ],
+        [
+            "I2K93JGH8TK000YMBT600011",
+            {
+                "cite_type": "case",
+                "normalized_cite": "134 S. Ct. 1744",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#656#3#000134#001744#"
+            }
+        ],
+        [
+            "I2K93JGHDMR000YMBT600012",
+            {
+                "cite_type": "case",
+                "normalized_cite": "105 F. Supp. 3d 116",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#51717#3#000105#000116#"
+            }
+        ],
+        [
+            "I2K93JGHJFW000YMBT600013",
+            {
+                "cite_type": "patent",
+                "normalized_cite": "Pat. No. 5686738",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#42#39#0005686738#"
+            }
+        ],
+        [
+            "I2K93JGHP91000YMBT600014",
+            {
+                "cite_type": "patent",
+                "normalized_cite": "Pat. No. 5686738",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#42#39#0005686738#"
+            }
+        ],
+        [
+            "I2K93JGJ69W000YMBT600017",
+            {
+                "cite_type": "statute",
+                "normalized_cite": "35 U.S.C. sec. 285",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#1828#123#000035#        285#"
+            }
+        ],
+        [
+            "I2K93JGJB51000YMBT600018",
+            {
+                "cite_type": "case",
+                "normalized_cite": "23 F.3d 374",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#514#3#000023#000374#"
+            }
+        ],
+        [
+            "I2K93JGJG05000YMBT600019",
+            {
+                "cite_type": "case",
+                "normalized_cite": "549 F.3d 1381",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#514#3#000549#001381#"
+            }
+        ],
+        [
+            "I2K93JGJKT9000YMBT60001B",
+            {
+                "cite_type": "case",
+                "normalized_cite": "549 F.3d 1381",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#514#3#000549#001381#"
+            }
+        ],
+        [
+            "I2K93JGJRMF000YMBT60001C",
+            {
+                "cite_type": "case",
+                "normalized_cite": "23 F.3d 374",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#514#3#000023#000374#"
+            }
+        ],
+        [
+            "I2K93JGJXR9000YMBT60001D",
+            {
+                "cite_type": "case",
+                "normalized_cite": "23 F.3d 374",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#514#3#000023#000374#"
+            }
+        ],
+        [
+            "I2K93JGK2JF000YMBT60001F",
+            {
+                "cite_type": "case",
+                "normalized_cite": "631 F.3d 1372",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#514#3#000631#001372#"
+            }
+        ],
+        [
+            "I2K93JGK6CK000YMBT60001G",
+            {
+                "cite_type": "case",
+                "normalized_cite": "664 F.3d at 921-22",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#514#3#000664#000921#"
+            }
+        ],
+        [
+            "I2K93JGKCGF000YMBT60001H",
+            {
+                "cite_type": "statute",
+                "normalized_cite": "35 U.S.C. sec. 285",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#1828#123#000035#        285#"
+            }
+        ],
+        [
+            "I2K93JGKH9K000YMBT60001J",
+            {
+                "cite_type": "statute",
+                "normalized_cite": "35 U.S.C. \u00a7 284",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#1828#123#000035#        284#"
+            }
+        ],
+        [
+            "I2K93JGKN4R000YMBT60001K",
+            {
+                "cite_type": "courtRule",
+                "normalized_cite": "Fed. R. Civ. P. 68",
+                "locator_keyname": "citeReference",
+                "locator_keyvalue": "#7540#110#    68#"
+            }
+        ]
+    ],
+    "classes": [],
+    "case_text": {
+        "case_text": "<courtcasedocbody><caseopinions><opinion opiniontype=\"majority\"><bodytext><p><anchor id=\"para_2\"></anchor><emphasis typestyle=\"bf\"><emphasis typestyle=\"un\"><page number=\"1\"></page>MEMORANDUM AND ORDER</emphasis></emphasis></p><p><anchor id=\"para_3\"></anchor>July 22, 2016</p><p><anchor id=\"para_4\"></anchor>Saris, C.J.</p><p><anchor id=\"para_5\"></anchor><emphasis typestyle=\"bf\"><emphasis typestyle=\"un\">INTRODUCTION</emphasis></emphasis></p><p><anchor id=\"para_6\"></anchor>In November 2015, a jury found that Defendants Epistar,</p><p><anchor id=\"para_7\"></anchor>Everlight, and Lite-On infringed <citation guid=\"urn:citation:I2K93JG7YFK000YMBT600001\" id=\"I2K93JG7YFK000YMBT600001\" type=\"patent\"><content><span normalizedcite=\"Pat. No. 5686738\">U.S. Patent No. 5,686,738<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#42#39#0005686738#\"></keyvalue></locatorkey></locator></span></content></citation> and</p><p><anchor id=\"para_8\"></anchor>awarded Plaintiff Trustees of Boston University (BU) $13,665,000 1</p><p><anchor id=\"para_9\"></anchor>in damages. BU now moves for an award of attorneys' fees, expert witness fees, and costs. In total, BU seeks more than $11 million: $9,359,276 in attorneys' fees, $1,188,220 in expert fees, and $1,084,058 in costs. BU offers two primary bases for its proposed award: that Epistar and Everlight willfully infringed the <citation guid=\"urn:citation:I2K93JG8BY1000YMBT600002\" id=\"I2K93JG8BY1000YMBT600002\" type=\"patent\"><content><span normalizedcite=\"Pat. No. 5686738\">'738 patent<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#42#39#0005686738#\"></keyvalue></locatorkey></locator></span></content></citation>, and that all three defendants engaged in litigation misconduct. Defendants reject BU's contention that their litigation positions were factually and legally unsupported, argue that the case was reasonably litigated, and assert that BU's own litigation misconduct precludes a fee award in BU's favor. After hearing, the Court <emphasis typestyle=\"bf\"><emphasis typestyle=\"un\">ALLOWS</emphasis></emphasis> in part and</p><p><anchor id=\"para_10\"></anchor><emphasis typestyle=\"bf\"><emphasis typestyle=\"un\">DENIES</emphasis></emphasis>in part BU's motion for fees and costs (Docket No. 1732).</p><p><anchor id=\"para_11\"></anchor><emphasis typestyle=\"bf\"><emphasis typestyle=\"un\">DISCUSSION</emphasis></emphasis></p><p><anchor id=\"para_12\"></anchor><emphasis typestyle=\"bf\">I. </emphasis><emphasis typestyle=\"bf\"><emphasis typestyle=\"un\">Attorneys' Fees</emphasis></emphasis><emphasis typestyle=\"bf\">A. Legal Standard</emphasis></p><p><anchor id=\"para_13\"></anchor>Under <citation guid=\"urn:citation:I2K93JG8J1W000YMBT600003\" id=\"I2K93JG8J1W000YMBT600003\" type=\"statute\"><content><span normalizedcite=\"35 U.S.C. sec. 285\">35 U.S.C. \u00a7 285<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#1828#123#000035#        285#\"></keyvalue></locatorkey></locator></span></content></citation>, the court \"in exceptional cases may award reasonable attorney fees to the prevailing party.\" An exceptional case is \"simply one that stands out from others with respect to the substantive strength of a party's<page number=\"2\"></page> litigating position (considering both the governing law and the facts of the case) or the unreasonable manner in which the case was litigated.\" <citation guid=\"urn:citation:I2K93JG8R4R000YMBT600004\" id=\"I2K93JG8R4R000YMBT600004\" type=\"case\"><content><emphasis typestyle=\"un\">Octane Fitness LLC v. ICON Health &amp; Fitness, Inc.</emphasis>, <span normalizedcite=\"134 S. Ct. 1749\">134 S. Ct. 1749<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#656#3#000134#001749#\"></keyvalue></locatorkey></locator></span>, <span normalizedcite=\"134 S. Ct. 1749\">1756<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#656#3#000134#001749#\"></keyvalue></locatorkey></locator></span> (2014)</content></citation>. \"<citation guid=\"urn:citation:I2K93JG8VYW000YMBT600005\" id=\"I2K93JG8VYW000YMBT600005\" type=\"statute\"><content><span normalizedcite=\"35 U.S.C. sec. 285\">Section 285<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#1828#123#000035#        285#\"></keyvalue></locatorkey></locator></span></content></citation> demands a simple discretionary inquiry; it imposes no specific evidentiary</p><p><anchor id=\"para_14\"></anchor>2</p><p><anchor id=\"para_15\"></anchor>burden, much less a high one.\" <citation guid=\"urn:citation:I2K93JG922R000YMBT600006\" id=\"I2K93JG922R000YMBT600006\" type=\"case\"><content><span normalizedcite=\"134 S. Ct. 1749\"><emphasis typestyle=\"un\">Id.</emphasis> at 1758<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#656#3#000134#001749#\"></keyvalue></locatorkey></locator></span></content></citation>; <emphasis typestyle=\"un\">see also </emphasis><citation guid=\"urn:citation:I2K93JG95WW000YMBT600007\" id=\"I2K93JG95WW000YMBT600007\" type=\"case\"><content><emphasis typestyle=\"un\">Highmark</emphasis><emphasis typestyle=\"un\">Inc. v. Allcare Health Mgmt. Sys., Inc.</emphasis>, <span normalizedcite=\"134 S. Ct. 1744\">134 S. Ct. 1744<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#656#3#000134#001744#\"></keyvalue></locatorkey></locator></span>, <span normalizedcite=\"134 S. Ct. 1744\">1748<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#656#3#000134#001744#\"></keyvalue></locatorkey></locator></span> (2014)</content></citation> (\"[T]he determination whether a case is 'exceptional' under <citation guid=\"urn:citation:I2K93JG9C0R000YMBT600008\" id=\"I2K93JG9C0R000YMBT600008\" type=\"statute\"><content><span normalizedcite=\"35 U.S.C. sec. 285\">\u00a7 285<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#1828#123#000035#        285#\"></keyvalue></locatorkey></locator></span></content></citation> is a matter of discretion.\").</p><p><anchor id=\"para_16\"></anchor>\"There is no precise rule or formula for making these determinations.\" <citation guid=\"urn:citation:I2K93JG9GTW000YMBT600009\" id=\"I2K93JG9GTW000YMBT600009\" type=\"case\"><content><emphasis typestyle=\"un\">Octane Fitness</emphasis>, <span normalizedcite=\"134 S. Ct. 1744\">134 S. Ct. at 1756<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#656#3#000134#001744#\"></keyvalue></locatorkey></locator></span></content></citation> (internal citation and alteration omitted). However, factors supporting a finding of exceptionality include \"frivolousness, motivation, objective unreasonableness (both in the factual and legal components of the case) and the need in particular circumstances to advance considerations of compensation and deterrence.\" <citation guid=\"urn:citation:I2K93JG9NXR000YMBT60000B\" id=\"I2K93JG9NXR000YMBT60000B\" type=\"case\"><content><span normalizedcite=\"134 S. Ct. 1744\"><emphasis typestyle=\"un\">Id.</emphasis> at 1756 n.6<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#656#3#000134#001744#\"></keyvalue></locatorkey></locator></span></content></citation> (quoting <citation guid=\"urn:citation:I2K93JG9TRW000YMBT60000C\" id=\"I2K93JG9TRW000YMBT60000C\" type=\"case\"><content><emphasis typestyle=\"un\">Fogerty v. Fantasy, Inc.</emphasis>, <span normalizedcite=\"510 U.S. 517\">510 U.S. 517<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#52#3#000510#000517#\"></keyvalue></locatorkey></locator></span>, <span normalizedcite=\"510 U.S. 517\">534<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#52#3#000510#000517#\"></keyvalue></locatorkey></locator></span> n.19 (1994)</content></citation>). \"[A] case presenting either subjective bad faith or exceptionally meritless claims may sufficiently set itself apart from mine-run cases to warrant a fee award.\" <citation guid=\"urn:citation:I2K93JGB0VR000YMBT60000D\" id=\"I2K93JGB0VR000YMBT60000D\" type=\"case\"><content><span normalizedcite=\"134 S. Ct. 1744\"><emphasis typestyle=\"un\">Id.</emphasis> at 1757<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#656#3#000134#001744#\"></keyvalue></locatorkey></locator></span></content></citation>.</p><p><anchor id=\"para_17\"></anchor>\"Litigation misconduct and unprofessional behavior may suffice, by themselves, to make a case exceptional under <citation guid=\"urn:citation:I2K93JGB4NW000YMBT60000F\" id=\"I2K93JGB4NW000YMBT60000F\" type=\"statute\"><content><span normalizedcite=\"35 U.S.C. sec. 285\">\u00a7 285<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#1828#123#000035#        285#\"></keyvalue></locatorkey></locator></span></content></citation>.\" <citation guid=\"urn:citation:I2K93JGB8H1000YMBT60000G\" id=\"I2K93JGB8H1000YMBT60000G\" type=\"case\"><content><emphasis typestyle=\"un\">Rambus Inc. v. Infineon Techs. AG</emphasis>, <span normalizedcite=\"318 F.3d 1081\">318 F.3d 1081<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000318#001081#\"></keyvalue></locatorkey></locator></span>, <span normalizedcite=\"318 F.3d 1081\">1106<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000318#001081#\"></keyvalue></locatorkey></locator></span> (Fed. Cir. 2003)</content></citation>. \"In cases deemed exceptional only on the basis of litigation misconduct, however, the amount of the award must bear some relation to the extent of the misconduct.\"<page number=\"3\"></page><emphasis typestyle=\"un\"><citation guid=\"urn:citation:I2K93JGBFKW000YMBT60000H\" id=\"I2K93JGBFKW000YMBT60000H\" type=\"case\"><content><span normalizedcite=\"318 F.3d 1081\">Id<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000318#001081#\"></keyvalue></locatorkey></locator></span></content></citation>.</emphasis> An award of \"attorney fees under <citation guid=\"urn:citation:I2K93JGBKF1000YMBT60000J\" id=\"I2K93JGBKF1000YMBT60000J\" type=\"statute\"><content><span normalizedcite=\"35 U.S.C. sec. 285\">section 285<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#1828#123#000035#        285#\"></keyvalue></locatorkey></locator></span></content></citation> should be tailored by a court to the situation before it.\" <citation guid=\"urn:citation:I2K93JGBR85000YMBT60000K\" id=\"I2K93JGBR85000YMBT60000K\" type=\"case\"><content><emphasis typestyle=\"un\">Power Mosfet Techs., LLC v.</emphasis><emphasis typestyle=\"un\">Siemens AG</emphasis>, <span normalizedcite=\"378 F.3d 1396\">378 F.3d 1396<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000378#001396#\"></keyvalue></locatorkey></locator></span>, <span normalizedcite=\"378 F.3d 1396\">1415<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000378#001396#\"></keyvalue></locatorkey></locator></span> (Fed. Cir. 2004)</content></citation>. \"[T]he award</p><p><anchor id=\"para_18\"></anchor>3</p><p><anchor id=\"para_19\"></anchor>of the total amount of a fee request is unusual.\" <citation guid=\"urn:citation:I2K93JGBXC1000YMBT60000M\" id=\"I2K93JGBXC1000YMBT60000M\" type=\"case\"><content><emphasis typestyle=\"un\">Takeda Chem.</emphasis><emphasis typestyle=\"un\">Indus., Ltd. v. Mylan Labs., Inc.</emphasis>, <span normalizedcite=\"549 F.3d 1381\">549 F.3d 1381<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000549#001381#\"></keyvalue></locatorkey></locator></span>, <span normalizedcite=\"549 F.3d 1381\">1390<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000549#001381#\"></keyvalue></locatorkey></locator></span> (Fed. Cir. 2008)</content></citation>.</p><p><anchor id=\"para_20\"></anchor>\"[A] finding of willful infringement does not require a finding that a case is exceptional,\" though \"the willfulness of the infringement by the accused infringer may be a sufficient basis in a particular case for finding the case 'exceptional' for purposes of awarding attorney fees.\" <citation guid=\"urn:citation:I2K93JGC265000YMBT60000N\" id=\"I2K93JGC265000YMBT60000N\" type=\"case\"><content><emphasis typestyle=\"un\">Golight, Inc. v. Wal-Mart Stores, Inc.</emphasis>, <span normalizedcite=\"355 F.3d 1327\">355 F.3d 1327<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000355#001327#\"></keyvalue></locatorkey></locator></span>, <span normalizedcite=\"355 F.3d 1327\">1340<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000355#001327#\"></keyvalue></locatorkey></locator></span> (Fed. Cir. 2004)</content></citation> (internal citations and quotation marks omitted); <emphasis typestyle=\"un\">see also</emphasis><citation guid=\"urn:citation:I2K93JGC619000YMBT60000P\" id=\"I2K93JGC619000YMBT60000P\" type=\"case\"><content><emphasis typestyle=\"un\">Veracode, Inc. v. Appthority, Inc.</emphasis>, <span normalizedcite=\"137 F. Supp. 3d 17\">137 F. Supp. 3d 17<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#51717#3#000137#000017#\"></keyvalue></locatorkey></locator></span>, <span normalizedcite=\"137 F. Supp. 3d 17\">99<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#51717#3#000137#000017#\"></keyvalue></locatorkey></locator></span> n.56 (D. Mass. 2015)</content></citation> (\"The majority of the case law after <emphasis typestyle=\"un\">Octane</emphasis><emphasis typestyle=\"un\">Fitness</emphasis> . . . makes clear that a totality test still governs, and that willfulness is a relevant but not dispositive consideration.\"). \"Although an attorney fee award is not mandatory when willful infringement has been found, precedent establishes that the court should explain its decision not to award attorney fees.\" <citation guid=\"urn:citation:I2K93JGCKGR000YMBT60000R\" id=\"I2K93JGCKGR000YMBT60000R\" type=\"case\"><content><emphasis typestyle=\"un\">Spectralytics, Inc. v. Cordis Corp.</emphasis>, <span normalizedcite=\"649 F.3d 1336\">649 F.3d 1336<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000649#001336#\"></keyvalue></locatorkey></locator></span>, <span normalizedcite=\"649 F.3d 1336\">1349<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000649#001336#\"></keyvalue></locatorkey></locator></span> (Fed. Cir. 2011)</content></citation>.</p><p><anchor id=\"para_21\"></anchor><emphasis typestyle=\"bf\">B. Analysis</emphasis></p><p><anchor id=\"para_22\"></anchor>BU argues that it is entitled to attorneys' fees under <citation guid=\"urn:citation:I2K93JGCR9W000YMBT60000S\" id=\"I2K93JGCR9W000YMBT60000S\" type=\"statute\"><content><span normalizedcite=\"35 U.S.C. sec. 285\">35 U.S.C. \u00a7 285<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#1828#123#000035#        285#\"></keyvalue></locatorkey></locator></span></content></citation> because Everlight and Epistar willfully infringed the <citation guid=\"urn:citation:I2K93JGCW51000YMBT60000T\" id=\"I2K93JGCW51000YMBT60000T\" type=\"patent\"><content><span normalizedcite=\"Pat. No. 5686738\">'738 patent<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#42#39#0005686738#\"></keyvalue></locatorkey></locator></span></content></citation>, and because the defendants engaged in vexatious litigation tactics and discovery misconduct. Defendants concede</p><p><anchor id=\"para_23\"></anchor>4</p><p><anchor id=\"para_24\"></anchor>that Everlight provided BU with incomplete or inaccurate sales data and ask the Court to limit<page number=\"4\"></page> any fee award to those fees incurred as a result of this misconduct. Defendants assert that there is otherwise no evidence that they litigated the case unreasonably. Defendants also counter that their legal arguments had merit, that BU failed to meet its burden to show that its fees are reasonable, and that BU engaged in its own litigation misconduct. Defendant Lite-On additionally argues that it should not be considered for an award of fees and costs because it was a prevailing party under <citation guid=\"urn:citation:I2K93JGD27W000YMBT60000V\" id=\"I2K93JGD27W000YMBT60000V\" type=\"courtRule\"><content><span normalizedcite=\"Fed. R. Civ. P. 68\">Federal Rule of Civil Procedure 68<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#7540#110#    68#\"></keyvalue></locatorkey></locator></span></content></citation> and because the plaintiff did not contend that Lite-On willfully infringed the <citation guid=\"urn:citation:I2K93JGD631000YMBT60000W\" id=\"I2K93JGD631000YMBT60000W\" type=\"patent\"><content><span normalizedcite=\"Pat. No. 5686738\">'738 patent<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#42#39#0005686738#\"></keyvalue></locatorkey></locator></span></content></citation>.</p><p><anchor id=\"para_25\"></anchor>First, most of the defendants' litigation positions had merit. In determining whether a case is exceptional under <citation guid=\"urn:citation:I2K93JGD9X5000YMBT60000X\" id=\"I2K93JGD9X5000YMBT60000X\" type=\"statute\"><content><span normalizedcite=\"35 U.S.C. sec. 285\">\u00a7 285<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#1828#123#000035#        285#\"></keyvalue></locatorkey></locator></span></content></citation>, the court must examine the \"'substantive <emphasis typestyle=\"un\">strength</emphasis> of the party's litigating position,'\" \"not the <emphasis typestyle=\"un\">correctness</emphasis> or eventual success of [that] position.\" <citation guid=\"urn:citation:I2K93JGDH11000YMBT60000Y\" id=\"I2K93JGDH11000YMBT60000Y\" type=\"case\"><content><emphasis typestyle=\"un\">SFA Sys., LLC v. Newegg, Inc.</emphasis>, <span normalizedcite=\"793 F.3d 1344\">793 F.3d 1344<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000793#001344#\"></keyvalue></locatorkey></locator></span>, <span normalizedcite=\"793 F.3d 1344\">1348<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000793#001344#\"></keyvalue></locatorkey></locator></span> (Fed. Cir. 2015)</content></citation> (emphasis in original) (quoting <citation guid=\"urn:citation:I2K93JGH3PR000YMBT600010\" id=\"I2K93JGH3PR000YMBT600010\" type=\"case\"><content><emphasis typestyle=\"un\">Octane Fitness</emphasis>, <span normalizedcite=\"134 S. Ct. 1744\">134 S. Ct. at 1756<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#656#3#000134#001744#\"></keyvalue></locatorkey></locator></span></content></citation>). \"A party's position on issues of law ultimately need not be correct for them</p><p><anchor id=\"para_26\"></anchor>to . . . be found reasonable.\" <emphasis typestyle=\"un\"><citation guid=\"urn:citation:I2K93JGH8TK000YMBT600011\" id=\"I2K93JGH8TK000YMBT600011\" type=\"case\"><content><span normalizedcite=\"134 S. Ct. 1744\">Id<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#656#3#000134#001744#\"></keyvalue></locatorkey></locator></span></content></citation>.</emphasis></p><p><anchor id=\"para_27\"></anchor>Factual and legal support existed for both parties' positions on the central issues of this litigation. On infringement, the Court denied both parties' motions for summary</p><p><anchor id=\"para_28\"></anchor>5</p><p><anchor id=\"para_29\"></anchor>judgment. <citation guid=\"urn:citation:I2K93JGHDMR000YMBT600012\" id=\"I2K93JGHDMR000YMBT600012\" type=\"case\"><content><emphasis typestyle=\"un\">Trs. of Boston Univ. v. Everlight Elecs. Co.</emphasis>, <span normalizedcite=\"105 F. Supp. 3d 116\">105 F. Supp. 3d 116<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#51717#3#000105#000116#\"></keyvalue></locatorkey></locator></span> (D. Mass. 2015)</content></citation>. In denying the defendants' motion<page number=\"5\"></page> for judgment as a matter of law on the issue of invalidity, the Court noted that both parties presented strong arguments in support of their respective positions as to whether the patent was adequately enabled, particularly with respect to the amorphous buffer layer. On damages, defendants reasonably opposed a damages award on the plaintiff's design-win theory.1 As well, the defendants ultimately prevailed on their post-trial argument that the evidence does not support the lump-sum damages awards against Epistar and Everlight. For the most part, the defendants' contentions were not patently unsupportable so as to justify a full award of attorneys' fees.</p><p><anchor id=\"para_30\"></anchor>Second, the defendants' litigation conduct-with two critical exceptions discussed below-was not unreasonable. While counsel on both sides were aggressive and at times uncivil, that is unfortunately true in many patent cases. Here, both sides tangoed. Considering the totality of the circumstances, the Court cannot assign blame for this contentiousness to one side.</p><p><anchor id=\"para_31\"></anchor>For these reasons, as well as those outlined in the Court's order denying BU's request for enhanced damages, the Court finds that the jury's finding of subjective willfulness<page number=\"6\"></page> with respect</p><p><anchor id=\"para_32\"></anchor>1 The Court deferred deciding whether this theory was viable. The issue became moot when BU sought and obtained a lump-sum award.</p><p><anchor id=\"para_33\"></anchor>6</p><p><anchor id=\"para_34\"></anchor>to Epistar and Everlight2 does not make this an \"exceptional case\" so as to warrant a complete award of attorneys' fees.</p><p><anchor id=\"para_35\"></anchor>However, during two phases of this case, the defendants did engage in litigation misconduct that supports a partial award of attorneys' fees to BU: (1) Everlight's ever-changing explanation of the sales data that it provided BU and (2) the October 2014 trip to Taiwan to review the defendants' sales data.</p><p><anchor id=\"para_36\"></anchor>First, BU is entitled to attorneys' fees incurred as a direct result of Everlight's shifting litigation positions regarding the contents of the sales data that it provided to BU.3</p><p><anchor id=\"para_37\"></anchor>In April 2014, Everlight produced several sales data spreadsheets to BU. Defendants concede that prior counsel for Everlight \"inexplicably suggested to BU's counsel that the sales data only included packages containing GaN LEDs.\" Docket No. 1741 at 18. For two years, BU relied on this representation. BU's damages expert, Mr. Alan Ratliff, formulated his expert report on the basis of Everlight's description of this data. Just six weeks before trial, on<page number=\"7\"></page> October 5, 2015, Everlight's expert stated that BU had erred in defining the royalty base. In his report, Dr. Russell W. Mangum III explained that Mr. Ratliff's calculations \"include[d] numerous products which I</p><p><anchor id=\"para_38\"></anchor>2 BU did not argue that Lite-On willfully infringed the <citation guid=\"urn:citation:I2K93JGHJFW000YMBT600013\" id=\"I2K93JGHJFW000YMBT600013\" type=\"patent\"><content><span normalizedcite=\"Pat. No. 5686738\">'738 patent<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#42#39#0005686738#\"></keyvalue></locatorkey></locator></span></content></citation>.</p><p><anchor id=\"para_39\"></anchor>3 BU's brief accurately portrays the litigation history on this point. <emphasis typestyle=\"un\">See</emphasis> Docket No. 1733.</p><p><anchor id=\"para_40\"></anchor>7</p><p><anchor id=\"para_41\"></anchor>understand are not accused of infringing the <citation guid=\"urn:citation:I2K93JGHP91000YMBT600014\" id=\"I2K93JGHP91000YMBT600014\" type=\"patent\"><content><span normalizedcite=\"Pat. No. 5686738\">'738 Patent<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#42#39#0005686738#\"></keyvalue></locatorkey></locator></span></content></citation>.\" Docket No. 1426, Ex. 3 at 29. He then provided his own revised estimates, noting that \"the effect of eliminating non-accused products is substantial.\" <emphasis typestyle=\"un\">Id.</emphasis></p><p><anchor id=\"para_42\"></anchor>Everlight's change in position was costly, both for BU and the Court. Nine additional briefs were filed, and BU was forced to revisit its royalty base calculations during the final weeks of trial preparation. The issue also caused significant confusion at trial.</p><p><anchor id=\"para_43\"></anchor>Worse still, Everlight's explanation for the dramatic about-face repeatedly changed. Everlight now refers to the episode as a mistake resulting in the \"over-identification of GaN LED products\" and Everlight \"overstating its GaN sales figures.\" Docket No. 1741 at 5, 23. But, in October 2015, Everlight claimed that the error was of BU's making, asserting that BU had used its<page number=\"8\"></page> access to Everlight's SAP system to falsely include non-GaN products in its royalty base: \"BU used its own derivation of the data, not the produced documents it possessed since August 2014.\" Docket No. 1456 at 8. Everlight then accused BU of using this false information to its benefit, arguing that \"BU had the ability and the motivation\" to check Mr. Ratliff's figures against Everlight's SAP database, but BU \"chose not to, for the obvious inference that it preferred a higher damages number over an accurate one.\" <emphasis typestyle=\"un\">Id.</emphasis> Everlight changed course again</p><p><anchor id=\"para_44\"></anchor>8</p><p><anchor id=\"para_45\"></anchor>at trial when it suggested that its original spreadsheets had</p><p><anchor id=\"para_46\"></anchor>properly included both GaN and non-GaN products because BU's</p><p><anchor id=\"para_47\"></anchor>infringement contentions included both. Confusion over the sales</p><p><anchor id=\"para_48\"></anchor>data, Everlight then claimed, was not because BU augmented the</p><p><anchor id=\"para_49\"></anchor>spreadsheets Everlight provided with additional non-GaN product</p><p><anchor id=\"para_50\"></anchor>data, but because Everlight had produced a spreadsheet</p><p><anchor id=\"para_51\"></anchor>responsive to BU's overly broad infringement contentions. Unable</p><p><anchor id=\"para_52\"></anchor>to definitively resolve whether the data that Everlight produced</p><p><anchor id=\"para_53\"></anchor>in April 2014-and upon which Mr. Ratliff relied-included only</p><p><anchor id=\"para_54\"></anchor>GaN products or both GaN and non-GaN products, the Court gave</p><p><anchor id=\"para_55\"></anchor>the jury an adverse inference instruction.4<page number=\"9\"></page> I find that Everlight</p><p><anchor id=\"para_56\"></anchor>acted negligently in the production of inaccurate sales data</p><p><anchor id=\"para_57\"></anchor>which likely overstated Everlight's damages, that its former</p><p><anchor id=\"para_58\"></anchor>counsel negligently represented the content of the sales data,</p><p><anchor id=\"para_59\"></anchor>and that Everlight acted in bad faith when it tried to place the</p><p><anchor id=\"para_60\"></anchor>4 \"I instruct you that Everlight's prior lawyers misidentified the nature of the sales evidence regarding the royalty base that Everlight relied on at trial. This misidentification may have compromised Boston University's ability to test the truth and accuracy of Everlight's damages evidence at trial. Any confusion that you may have on the issue of damages due to Everlight's misidentification should be decided in favor of Boston University. Any confusion or difficulties caused by Everlight's misidentification should be held against Everlight, not Boston University, and not Epistar or Lite-On. However, it is up to you to determine whether Boston University has proven the amount of the royalty base for Everlight.\" <citation guid=\"urn:citation:I2K93JGHWCW000YMBT600015\" id=\"I2K93JGHWCW000YMBT600015\" type=\"case\"><content>Trial Tr. vol. 10, Docket No. 1600 at 43-44</content></citation>.</p><p><anchor id=\"para_61\"></anchor>9</p><p><anchor id=\"para_62\"></anchor>blame on BU. This last-minute confusion prejudiced BU in the</p><p><anchor id=\"para_63\"></anchor>presentation of the damages case.</p><p><anchor id=\"para_64\"></anchor>For this reason, the Court orders Everlight to pay BU its</p><p><anchor id=\"para_65\"></anchor>attorneys' fees directly attributable to the misrepresentation<page number=\"10\"></page></p><p><anchor id=\"para_66\"></anchor>surrounding the sales data that Everlight originally described</p><p><anchor id=\"para_67\"></anchor>as including only GaN products.5</p><p><anchor id=\"para_68\"></anchor>Second, BU is entitled to attorneys' fees incurred in</p><p><anchor id=\"para_69\"></anchor>preparation for and during its October 2014 trip to Taiwan to</p><p><anchor id=\"para_70\"></anchor>inspect sales documents. For nearly a year, the parties</p><p><anchor id=\"para_71\"></anchor>squabbled over the extent and means of production of relevant</p><p><anchor id=\"para_72\"></anchor>sales data. In July 2014, BU and Epistar appeared to reach an</p><p><anchor id=\"para_73\"></anchor>agreement on the production of purchase order data relating to</p><p><anchor id=\"para_74\"></anchor>the accused products. Soon after, Epistar informed BU that it</p><p><anchor id=\"para_75\"></anchor>could only inspect the documents at its facilities in Taiwan. In</p><p><anchor id=\"para_76\"></anchor>response, BU offered to cover the costs of shipping the</p><p><anchor id=\"para_77\"></anchor>documents from Taiwan to the United States. Epistar refused.</p><p><anchor id=\"para_78\"></anchor>5 At hearing, BU informed the Court that it could tabulate this subset of attorneys' fees. Post-Trial Hearing Tr., Docket No. 1756 at 131-32. BU is instructed to do so. While the defendants contest the aggregate amount of attorneys' fees that BU seeks as being unreasonable, <emphasis typestyle=\"un\">see</emphasis> Docket No. 1741 at 18-21, Everlight's counsel confirmed at hearing that Everlight would not challenge BU's hourly rate if the Court ordered a narrower fee award. Docket No. 1756 at 145. The attorneys' fee award includes all briefing, discovery,<page number=\"11\"></page> and expert preparation with respect to Everlight's sales base. It does not include briefing on other damages issues, like design-win and the entire market value rule. Be reasonable so the Court does not have a second round of litigation on attorneys' fees.</p><p><anchor id=\"para_79\"></anchor>10</p><p><anchor id=\"para_80\"></anchor>Epistar countered that BU could instead pay for the documents to be scanned. BU objected to doing so. On September 30, 2014, Magistrate Judge Boal expressed concern with Epistar's obstinacy, noting that during \"the course of discovery in this case, Epistar inappropriately attempted to shift to BU its obligations to search for and review documents for responsiveness and confidentiality,\" and reminding \"Epistar that it has an obligation to review and identify documents which are responsive to BU's requests.\" Docket No. 832 at 4 n.3.</p><p><anchor id=\"para_81\"></anchor>Ultimately, BU had to repeatedly travel to Taiwan to obtain access to the sales data. In its October 2014 trip, BU visited Taiwan to review the pertinent documents onsite at Epistar's facilities. However, Epistar \"did not review any of the documents prior to making them available to BU.\" Docket No. 911 at 3-4. Magistrate Judge Boal again noted that the Court was \"left with the impression that Epistar has<page number=\"12\"></page> been dragging its heels in the course of discovery\" and \"continues to attempt to shift to BU its own discovery obligations.\" <citation guid=\"urn:citation:I2K93JGJ171000YMBT600016\" id=\"I2K93JGJ171000YMBT600016\" type=\"case\"><content><emphasis typestyle=\"un\">Id.</emphasis> at 5</content></citation>. Magistrate Judge Boal ordered Epistar to reimburse BU for its travel expenses for the unproductive trip to Taiwan.6</p><p><anchor id=\"para_82\"></anchor>6 In exchange for access to the defendants' SAP systems, BU agreed to forego its right to this discovery sanction.</p><p><anchor id=\"para_83\"></anchor>11</p><p><anchor id=\"para_84\"></anchor>Accordingly, the Court orders Epistar to pay BU attorneys' fees incurred in preparation for and during BU's October 2014 trip to Taiwan.</p><p><anchor id=\"para_85\"></anchor><emphasis typestyle=\"bf\">II. </emphasis><emphasis typestyle=\"bf\"><emphasis typestyle=\"un\">Expert Fees</emphasis></emphasis></p><p><anchor id=\"para_86\"></anchor></p><p><anchor id=\"para_87\"></anchor><emphasis typestyle=\"bf\">A. Legal Standard</emphasis></p><p><anchor id=\"para_88\"></anchor>\"<citation guid=\"urn:citation:I2K93JGJ69W000YMBT600017\" id=\"I2K93JGJ69W000YMBT600017\" type=\"statute\"><content><span normalizedcite=\"35 U.S.C. sec. 285\">Section 285<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#1828#123#000035#        285#\"></keyvalue></locatorkey></locator></span></content></citation> does not include shifting of expert</p><p><anchor id=\"para_89\"></anchor>fees . . . .\" <citation guid=\"urn:citation:I2K93JGJB51000YMBT600018\" id=\"I2K93JGJB51000YMBT600018\" type=\"case\"><content><emphasis typestyle=\"un\">Amsted Indus. Inc. v. Buckeye Steel Castings Co.</emphasis>, <span normalizedcite=\"23 F.3d 374\">23 F.3d 374<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000023#000374#\"></keyvalue></locatorkey></locator></span>, <span normalizedcite=\"23 F.3d 374\">379<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000023#000374#\"></keyvalue></locatorkey></locator></span> (Fed. Cir. 1994)</content></citation>. A district court may, however, \"invoke its inherent power to impose sanctions in the form of reasonable expert fees in excess of what is provided for by statute.\" <citation guid=\"urn:citation:I2K93JGJG05000YMBT600019\" id=\"I2K93JGJG05000YMBT600019\" type=\"case\"><content><emphasis typestyle=\"un\">Takeda Chem. Indus.</emphasis>, <span normalizedcite=\"549 F.3d 1381\">549 F.3d at 1391<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000549#001381#\"></keyvalue></locatorkey></locator></span></content></citation>. \"The use of this inherent power is reserved for cases with 'a finding of fraud or abuse of the judicial process.'\" <emphasis typestyle=\"un\"><citation guid=\"urn:citation:I2K93JGJKT9000YMBT60001B\" id=\"I2K93JGJKT9000YMBT60001B\" type=\"case\"><content><span normalizedcite=\"549 F.3d 1381\">Id<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000549#001381#\"></keyvalue></locatorkey></locator></span></content></citation>.</emphasis> (quoting <citation guid=\"urn:citation:I2K93JGJRMF000YMBT60001C\" id=\"I2K93JGJRMF000YMBT60001C\" type=\"case\"><content><emphasis typestyle=\"un\">Amsted</emphasis><emphasis typestyle=\"un\">Indus.</emphasis>, <span normalizedcite=\"23 F.3d 374\">23 F.3d at 378<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000023#000374#\"></keyvalue></locatorkey></locator></span></content></citation>). A finding of fraud, however, is not required, as \"courts may use sanctions in cases involving bad faith that cannot be otherwise reached by rules or statutes.\" <emphasis typestyle=\"un\"><citation guid=\"urn:citation:I2K93JGJXR9000YMBT60001D\" id=\"I2K93JGJXR9000YMBT60001D\" type=\"case\"><content><span normalizedcite=\"23 F.3d 374\">Id<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000023#000374#\"></keyvalue></locatorkey></locator></span></content></citation>.</emphasis>; <emphasis typestyle=\"un\">see also </emphasis><citation guid=\"urn:citation:I2K93JGK2JF000YMBT60001F\" id=\"I2K93JGK2JF000YMBT60001F\" type=\"case\"><content><emphasis typestyle=\"un\">iLOR, LLC v. Google, Inc.</emphasis>, <span normalizedcite=\"631 F.3d 1372\">631 F.3d 1372<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000631#001372#\"></keyvalue></locatorkey></locator></span>, <span normalizedcite=\"631 F.3d 1372\">1380<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000631#001372#\"></keyvalue></locatorkey></locator></span> (Fed. Cir. 2011)</content></citation> (stating that \"a court can invoke its inherent power to award such fees in exceptional cases based upon a finding of bad faith\").</p><p><anchor id=\"para_90\"></anchor><emphasis typestyle=\"bf\">B. Analysis</emphasis></p><p><anchor id=\"para_91\"></anchor>The Court orders<page number=\"13\"></page> Everlight to pay BU those expert fees incurred as a result of the misrepresentation regarding the sales data that Everlight produced in April 2014. As the</p><p><anchor id=\"para_92\"></anchor>12</p><p><anchor id=\"para_93\"></anchor>foregoing discussion demonstrates, Everlight acted in bad faith, particularly in its repeated attempts to pin the blame on BU's expert. When it finally identified the issue, Everlight blamed BU-without basis-for adding non-GaN products to Everlight's original spreadsheet and for making overly broad infringement contentions that included GaN and non-GaN products.</p><p><anchor id=\"para_94\"></anchor>Because the Court's award of attorneys' fees does not compensate BU for the additional resources expended by Mr. Ratliff in the weeks following Everlight's change in position, the Court finds that an award of expert fees is warranted. <emphasis typestyle=\"un\">See</emphasis><citation guid=\"urn:citation:I2K93JGK6CK000YMBT60001G\" id=\"I2K93JGK6CK000YMBT60001G\" type=\"case\"><content><span normalizedcite=\"664 F.3d at 921-22\"><emphasis typestyle=\"un\">MarcTec</emphasis>, 664 F.3d at 921-22<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#514#3#000664#000921#\"></keyvalue></locatorkey></locator></span></content></citation> (upholding expert fee award where \"vexatious conduct and bad faith increased the cost of litigation in ways that are not compensated under <citation guid=\"urn:citation:I2K93JGKCGF000YMBT60001H\" id=\"I2K93JGKCGF000YMBT60001H\" type=\"statute\"><content><span normalizedcite=\"35 U.S.C. sec. 285\">\u00a7 285<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#1828#123#000035#        285#\"></keyvalue></locatorkey></locator></span></content></citation>\").</p><p><anchor id=\"para_95\"></anchor><emphasis typestyle=\"bf\">III. <emphasis typestyle=\"un\">Costs</emphasis></emphasis></p><p><anchor id=\"para_96\"></anchor>\"Upon finding for the claimant the court shall award the claimant damages adequate to compensate for the infringement, but in no event less than a reasonable royalty for the use made of the invention by the infringer, together with interest and costs as fixed by the court.\" <citation guid=\"urn:citation:I2K93JGKH9K000YMBT60001J\" id=\"I2K93JGKH9K000YMBT60001J\" type=\"statute\"><content><span normalizedcite=\"35 U.S.C. \u00a7 284\">35 U.S.C. \u00a7 284<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#1828#123#000035#        284#\"></keyvalue></locatorkey></locator></span></content></citation>. The<page number=\"14\"></page> defendants do not oppose BU's request for costs. The Court orders all three defendants, jointly and severally, to pay costs accrued prior to Lite-On's <citation guid=\"urn:citation:I2K93JGKN4R000YMBT60001K\" id=\"I2K93JGKN4R000YMBT60001K\" type=\"courtRule\"><content><span normalizedcite=\"Fed. R. Civ. P. 68\">Rule 68<locator><locatorkey><keyname name=\"citeReference\"></keyname><keyvalue value=\"#7540#110#    68#\"></keyvalue></locatorkey></locator></span></content></citation> offer on July 23, 2015. The Court orders Epistar and Everlight, jointly and severally, to pay all subsequent costs incurred by BU. The parties shall meet and</p><p><anchor id=\"para_97\"></anchor>13</p><p><anchor id=\"para_98\"></anchor>confer to agree on a bill of costs or narrow the areas of</p><p><anchor id=\"para_99\"></anchor>dispute. Again, be reasonable.</p><p><anchor id=\"para_100\"></anchor><emphasis typestyle=\"bf\"><emphasis typestyle=\"un\">ORDER</emphasis></emphasis></p><p><anchor id=\"para_101\"></anchor>The plaintiff's motion for attorneys' and expert fees</p><p><anchor id=\"para_102\"></anchor>(Docket No. 1732) is <emphasis typestyle=\"bf\"><emphasis typestyle=\"un\">ALLOWED</emphasis></emphasis> in part and <emphasis typestyle=\"bf\"><emphasis typestyle=\"un\">DENIED</emphasis></emphasis> in part in</p><p><anchor id=\"para_103\"></anchor>accordance with the Court's memorandum. The plaintiff's motion</p><p><anchor id=\"para_104\"></anchor>for costs (Docket No. 1732) is <emphasis typestyle=\"bf\"><emphasis typestyle=\"un\">ALLOWED</emphasis></emphasis> in accordance with the</p><p><anchor id=\"para_105\"></anchor>Court's memorandum. After conferring with opposing counsel to</p><p><anchor id=\"para_106\"></anchor>narrow the areas of dispute, BU is ordered to submit an</p><p><anchor id=\"para_107\"></anchor>affidavit supporting its attorneys' and expert fees using the</p><p><anchor id=\"para_108\"></anchor>lodestar method with contemporaneous records of hours, hourly</p><p><anchor id=\"para_109\"></anchor>rate, and the subject matter of the work performed.7</p><p><anchor id=\"para_110\"></anchor>/s/ PATTI B. SARIS</p><p><anchor id=\"para_111\"></anchor>Patti B. Saris</p><p><anchor id=\"para_112\"></anchor>Chief United States District Judge</p><p><anchor id=\"para_113\"></anchor>7 The plaintiff's motion to strike (Docket No. 1742) is moot. Because the Court did not award BU all of its fees, the Court did not consider whether the claimed fees were reasonable. The Court had no occasion,<page number=\"15\"></page> therefore, to consider BU's offer to compromise in relation to whether the requested award was reasonable. For the same reasons, plaintiff's motion to compel the defendants' attorneys' fees (Docket No. 1723) is moot.</p><p><anchor id=\"para_114\"></anchor>14</p></bodytext></opinion></caseopinions></courtcasedocbody>"
+    }
+}
